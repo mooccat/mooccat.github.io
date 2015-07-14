@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-07-14T15:24:03.970Z</updated>
+  <updated>2015-07-14T15:31:12.596Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,11 +15,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[hello]]></title>
+    <title><![CDATA[github主页建成]]></title>
     <link href="http://yoursite.com/2015/07/14/github%E4%B8%BB%E9%A1%B5%E5%BB%BA%E6%88%90/"/>
     <id>http://yoursite.com/2015/07/14/github主页建成/</id>
     <published>2015-07-14T15:10:37.000Z</published>
-    <updated>2015-07-14T15:24:03.970Z</updated>
+    <updated>2015-07-14T15:31:12.596Z</updated>
     <content type="html"><![CDATA[<h3 id="我的github博客建成了">我的github博客建成了</h3><p>  终于抽时间弄好了github的个人主页，以后技术性的分享就尽量放这里了，和我的博客有些差别，也请大家多去逛逛我的博客，我会尽量更新的。我的博客地址：<a href="www.mooccat.com">链接</a>.欢迎大家提出意见，这个github的主页是使用hexo搭建的，主题没自己写了，页底有链接，有空再写吧。</p>
 ]]></content>
     <summary type="html">
