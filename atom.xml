@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[MoocCat||摩卡猫]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-07-14T15:24:03.970Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[liujunhong]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[hello]]></title>
+    <link href="http://yoursite.com/2015/07/14/hello/"/>
+    <id>http://yoursite.com/2015/07/14/hello/</id>
+    <published>2015-07-14T15:10:37.000Z</published>
+    <updated>2015-07-14T15:24:03.970Z</updated>
+    <content type="html"><![CDATA[<h3 id="我的github博客建成了">我的github博客建成了</h3><p>  终于抽时间弄好了github的个人主页，以后技术性的分享就尽量放这里了，和我的博客有些差别，也请大家多去逛逛我的博客，我会尽量更新的。我的博客地址：<a href="www.mooccat.com">链接</a>.欢迎大家提出意见，这个github的主页是使用hexo搭建的，主题没自己写了，页底有链接，有空再写吧。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="我的github博客建成了">我的github博客建成了</h3><p>  终于抽时间弄好了github的个人主页，以后技术性的分享就尽量放这里了，和我的博客有些差别，也请大家多去逛逛我的博客，我会尽量更新的。我的博客地址：<a href="www.mooccat]]>
+    </summary>
+    
+      <category term="闲谈" scheme="http://yoursite.com/tags/%E9%97%B2%E8%B0%88/"/>
+    
+      <category term="博客" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2015/07/14/hello-world/"/>
+    <id>http://yoursite.com/2015/07/14/hello-world/</id>
+    <published>2015-07-14T15:08:13.190Z</published>
+    <updated>2015-07-14T08:50:31.199Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
